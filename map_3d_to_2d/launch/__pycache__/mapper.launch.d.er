@@ -1,0 +1,13 @@
+##[pylyzer] failed /home/mars/ros2_ws/src/map_3d_to_2d/launch/mapper.launch.py 1776680110 559
+.___v_desugar_1 = pyimport "__init__"
+.__init__ = pyimport "__init__"
+.LaunchDescription: Never
+.___v_desugar_2 = pyimport "__init__"
+
+.Node: {node.Node}
+.os: Never
+
+.___v_desugar_3 = pyimport "packages"
+.packages = pyimport "packages"
+.get_package_share_directory: (package_name: Bool, print_warning: Structural({.__and__ = (self: Never, Bool) -> Bool}) := {True} and Structural({.__and__ = (self: Never, Bool) -> Bool})) -> Never
+.generate_launch_description: () -> Never
